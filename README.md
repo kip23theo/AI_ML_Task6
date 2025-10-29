@@ -2,7 +2,7 @@ K-Nearest Neighbors (KNN) Classification
 
 Objective: Implement and understand KNN for classification using Scikit-learn.
 
-Tools
+🔧 Tools
 
 Python
 
@@ -12,7 +12,7 @@ Pandas
 
 Matplotlib
 
-Steps
+📘 Steps
 
 Load and normalize the dataset (Iris or custom CSV).
 
@@ -24,7 +24,7 @@ Evaluate using accuracy, confusion matrix, and classification report.
 
 Visualize decision boundaries for two selected features.
 
- Results
+📊 Results
 
 Compared train vs. test accuracy for different K values.
 
