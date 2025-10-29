@@ -1,2 +1,33 @@
-# AI_ML_Task6
-Elevate labs AI/ML internship
+K-Nearest Neighbors (KNN) Classification
+
+Objective: Implement and understand KNN for classification using Scikit-learn.
+
+Tools
+
+Python
+
+Scikit-learn
+
+Pandas
+
+Matplotlib
+
+Steps
+
+Load and normalize the dataset (Iris or custom CSV).
+
+Split data into training and test sets.
+
+Train KNN models for different values of K.
+
+Evaluate using accuracy, confusion matrix, and classification report.
+
+Visualize decision boundaries for two selected features.
+
+ Results
+
+Compared train vs. test accuracy for different K values.
+
+Identified best K based on accuracy.
+
+Plotted decision regions and confusion matrix.
